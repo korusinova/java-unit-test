@@ -1,5 +1,4 @@
-@RunWith(Parameterized.class) // Напиши аннотацию для параметризованных 
-тестов
+@RunWith(Parameterized.class)
 public class CheckIsAdultTest {
 	
   private final int age;
